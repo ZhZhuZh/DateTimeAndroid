@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataTimeApp</string>
+    <string name="show_current_time">Show current time</string>
+    <string name="date_time_format">yyyy-MM-dd HH:mm:ss</string>
+</resources>
