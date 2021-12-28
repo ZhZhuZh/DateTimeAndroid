@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
                 String formatDateTime = DateTimeFormatter
                         .ofPattern(getString(R.string.date_time_format)).format(dateTime);
+                txt.setTextSize(50);
                 txt.setText(formatDateTime);
             }
         });
